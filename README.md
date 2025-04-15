@@ -24,5 +24,13 @@ This is the **frontend prototype** of a Training & Placement portal designed for
 
 ---
 
-## 📁 Project Structure
+## 🧠 What's Next?
+
+This is just the **UI prototype** – backend integration (authentication, form submission, database, and dashboards) is currently in progress and will be added in future updates.
+
+---
+
+
+
+> 🌱 *This project is part of an academic initiative to streamline the campus placement process at JUET using modern web technologies.*
 
